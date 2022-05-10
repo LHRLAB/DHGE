@@ -1,7 +1,7 @@
 import argparse
 import ast
 import os
-os.environ['CUDA_VISIBLE_DEVICES']='1'
+os.environ['CUDA_VISIBLE_DEVICES']='0'
 from utils.args import ArgumentGroup,print_arguments
 import logging
 from reader.data_reader import read_input
