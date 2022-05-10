@@ -15,6 +15,14 @@ All the experiments are conducted on a single 11G GeForce GTX 1080Ti GPU.
 ## How to Run
 
 
+### Unzip datasets
+
+
+```
+unzip -o -d dataset/ dataset/JW44K-6K.zip
+unzip -o -d dataset/ dataset/HTDM.zip
+```
+
 ### Training & Evaluation
 
 To train and evaluate the DHGE model for tasks of link prediction and entity typing on JW44K-6K dataset, please run:
