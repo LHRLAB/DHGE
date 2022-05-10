@@ -26,7 +26,7 @@ python run.py
 To train and evaluate the DHGE model for tasks of medicine prediction and medicine class prediction on HTDM dataset, please run:
 
 ```
-python run_copy.py
+python run_med.py
 ```
 
 ## BibTex
