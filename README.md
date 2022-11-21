@@ -1,5 +1,5 @@
 # DHGE-master
-DHGE: Dual-view Hyper-Relational Knowledge Graph Embedding for Link Prediction and Entity Typing.
+Official resources of "DHGE: Dual-view Hyper-Relational Knowledge Graph Embedding for Link Prediction and Entity Typing" (AAAI 2023).
 
 ## Requirements
 This project should work fine with the following environments:
