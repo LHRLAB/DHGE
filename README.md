@@ -25,7 +25,7 @@ All the experiments are conducted on a single 11G GeForce GTX 1080Ti GPU.
 ### Unzip datasets
 
 
-```
+```bash
 unzip -o -d dataset/ dataset/JW44K-6K.zip
 unzip -o -d dataset/ dataset/HTDM.zip
 ```
@@ -34,13 +34,13 @@ unzip -o -d dataset/ dataset/HTDM.zip
 
 To train and evaluate the DHGE model for tasks of link prediction and entity typing on JW44K-6K dataset, please run:
 
-```
+```bash
 python run.py
 ```
 
 To train and evaluate the DHGE model for tasks of medicine prediction and medicine class prediction on HTDM dataset, please run:
 
-```
+```bash
 python run_med.py
 ```
 
