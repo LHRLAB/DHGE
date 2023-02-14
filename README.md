@@ -46,7 +46,7 @@ python run_med.py
 
 ## BibTex
 
-If you find this project is helpful for your research, please cite:
+If you find this work is helpful for your research, please cite:
 
 ```bibtex
 @article{luo2022dhge,
