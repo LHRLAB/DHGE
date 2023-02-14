@@ -51,7 +51,7 @@ If you find this project is helpful for your research, please cite:
 ```bibtex
 @article{luo2022dhge,
   title={DHGE: Dual-view Hyper-Relational Knowledge Graph Embedding for Link Prediction and Entity Typing},
-  author={Luo, Haoran and Haihong, E and Tan, Ling and Zhou, Gengxian and Yao, Tianyu and Wan, Kaiyang},
+  author={Luo, Haoran and E, Haihong and Tan, Ling and Zhou, Gengxian and Yao, Tianyu and Wan, Kaiyang},
   journal={arXiv preprint arXiv:2207.08562},
   year={2022}
 }
