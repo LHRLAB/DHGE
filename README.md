@@ -46,7 +46,7 @@ python run_med.py
 
 ## BibTex
 
-When using this codebase or dataset please cite:
+If this project is useful for your research, please cite:
 
 ```bibtex
 @article{luo2022dhge,
