@@ -1,5 +1,5 @@
 # DHGE
-Official resources of **"DHGE: Dual-View Hyper-Relational Knowledge Graph Embedding for Link Prediction and Entity Typing"**. Haoran Luo, Haihong E, Ling Tan, Gengxian Zhou, Tianyu Yao, Kaiyang Wan. **AAAI 2023** \[[paper](https://doi.org/10.48550/arXiv.2207.08562)\].
+Official resources of **"DHGE: Dual-View Hyper-Relational Knowledge Graph Embedding for Link Prediction and Entity Typing"**. Haoran Luo, Haihong E, Ling Tan, Gengxian Zhou, Tianyu Yao, Kaiyang Wan. **AAAI 2023** \[[paper](https://doi.org/10.1609/aaai.v37i5.25795)\].
 
 ## Overview
 An example of DH-KG structure:
@@ -49,11 +49,15 @@ python run_med.py
 If you find this work is helpful for your research, please cite:
 
 ```bibtex
-@article{luo2022dhge,
-  title={DHGE: Dual-View Hyper-Relational Knowledge Graph Embedding for Link Prediction and Entity Typing},
-  author={Luo, Haoran and E, Haihong and Tan, Ling and Zhou, Gengxian and Yao, Tianyu and Wan, Kaiyang},
-  journal={arXiv preprint arXiv:2207.08562},
-  year={2022}
+@article{luo2023dhge, 
+  title={DHGE: Dual-View Hyper-Relational Knowledge Graph Embedding for Link Prediction and Entity Typing}, 
+  volume={37}, 
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/25795}, 
+  DOI={10.1609/aaai.v37i5.25795}, 
+  author={Luo, Haoran and E, Haihong and Tan, Ling and Zhou, Gengxian and Yao, Tianyu and Wan, Kaiyang}, 
+  year={2023}, 
+  month={Jun.}, 
+  pages={6467-6474} 
 }
 ```
 
